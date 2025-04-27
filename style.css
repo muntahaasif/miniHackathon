@@ -1,0 +1,316 @@
+
+.nav-bar{
+    height: 70px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    position: fixed;
+    top: 0px;
+}
+.logo{
+color: black;
+font-size: 50px;
+font-family: "Public Sans Web", sans-serif;
+font-weight: bold;
+margin-left: 90px;
+margin-top: 10px;
+}
+ul>li{
+    list-style: none;
+}
+.links>ul{
+    display: flex;
+    color: black;
+    gap: 20px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    margin-left: 300px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.book-now{
+    padding: 5px;
+    color: white;
+    background-color: rgb(4, 202, 4);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    width: 200px;
+    border: none;
+    margin-left: 170px;
+    margin-top: 10px;
+    height: 50px;
+    cursor: pointer;
+}
+.first-main-div {
+    width: 100%;
+    height: 400px;
+    background-color: #F5F7FA;
+    display: flex;
+    justify-content: space-around;
+}
+.first-div {
+    margin-top: 100px;
+    font-family: "Public Sans Web", sans-serif;
+}
+.lesson{
+    font-size: 50px;
+    margin-top: 40px;
+    line-height: 10px;
+}
+.years{
+    color:  rgb(4, 202, 4);
+    font-size: 44.55px;
+    font-weight: 600;
+    line-height: 10px;
+    
+}
+.three-para {
+    margin-top: 10px;
+    color: #717171;
+    font: 400;
+    font-size: 16px;
+}
+.regis{
+    padding: 20px;
+    background-color:rgb(4, 202, 4);
+    width: 150px;
+    height: 50px;
+    border: none;
+    outline: none;
+    color: white;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.illustration>img {
+    margin-top: 120px;
+    Width:100;
+    Height:283.3px;
+}
+.our{
+    height: 60px;
+    width: 100%;
+    /* background-color: aquamarine; */
+    margin-top: 5px;
+    text-align: center;
+    font-family: "Public Sans Web", sans-serif;  
+}
+.fortune{
+    text-align: center;
+    font-family: "Public Sans Web", sans-serif;
+    font-size: 15px;
+    margin-top: -50px;
+}
+.icons{
+    margin-top: 30px;
+    height: 50px;
+    width: 100%;
+    /* background-color: aqua; */
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+}
+.manage{
+    height: 120px;
+    width: 100%;
+    /* background-color: aquamarine; */
+}
+.community{
+    text-align: center;
+    font-family: "Public Sans Web", sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+.nexcent{
+    font-family: "Public Sans Web", sans-serif;
+    font-size: 12px;
+    text-align: center;
+    margin-top: -15px;
+}
+.write-text{
+    height: 250px;
+    width: 100%;
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: space-evenly;
+}
+.one-box{
+    height: 200px;
+    width: 250px;
+    background-color: white;
+    box-shadow: 1px 1px 1px 1px grey;
+    border-radius: 5px;
+}
+.software{
+    font-size: small;
+    margin-left: 20px;
+}
+.third-last{
+    height: 300px;
+    width: 100%;
+    /* background-color: aqua; */
+    display: flex;
+}
+.two-communication>img{
+    margin-left: 200px;
+}
+.unseen{
+    height: 300px;
+    width: 600px;
+    /* background-color: blue; */
+    margin-left: 50px;
+}
+.spreading{
+    margin-top: 80px;
+    font-size: 35px;
+    font-family: "Public Sans Web", sans-serif;
+}
+.dumy{
+    font-family: "Public Sans Web", sans-serif;
+    font-size: small;
+    margin-top: -20px;
+}
+.more{
+    color: white;
+    background-color: rgb(4, 202, 4);
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    margin-top: 10px;
+}
+.main-container{
+    height: 250px;
+    width: 100%;
+    /* background-color: rgb(213, 213, 213); */
+    margin-top: 70px;
+    display: flex;
+}
+.helping{
+    height: 250px;
+    width: 500px;
+    /* background-color: aquamarine; */
+    margin-left: 100px;
+}
+.local{
+    font-family: "Public Sans Web", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 40px;
+}
+.green{
+    color:  rgb(4, 202, 4);
+    font-family: "Public Sans Web", sans-serif;
+    font-size: 35px;
+    margin-top: -20px;
+}
+.small{
+    font-family: "Public Sans Web", sans-serif;
+    font-size: 17px;
+    margin-top: -30px
+}
+.booking{
+    height: 200px;
+    /* width: 300px;background-color: blue; */
+    margin-top: 50px;
+}
+.number{
+    margin-left: 50px;
+    margin-top: -30px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: "Public Sans Web", sans-serif;
+}
+.people{
+    margin-left: 50px;
+    margin-top: -20px;
+    font-size: 10px;
+    font-family: "Public Sans Web", sans-serif;
+}
+.event{
+    margin-top: 30px;
+}
+.right{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.center-text{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(238, 237, 237);
+}
+.sec-last{
+    text-align: center;
+    font-family: "Public Sans Web", sans-serif;
+    padding-top: 20px;
+    font-size: 30px;
+}
+.get{
+    background-color: rgb(4, 202, 4);
+    padding: 20px;
+    border: none;
+    color: white;
+    margin-left: 580px;
+    width: 200px;
+    border-radius: 5px;
+}
+.footer {
+    background-color: black;
+    color: #fff;
+    padding: 40px 0;
+    text-align: center;
+    height: 200px;
+  }
+  
+  .footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-section {
+    margin: 20px;
+    flex-basis: 20%;
+  }
+  
+  .footer-section h4 {
+    margin-bottom: 10px;
+  }
+  
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-section li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-section a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .social-links {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .social-links li {
+    margin-right: 20px;
+  }
+  
+  .copyright {
+    margin-top: 200px;
+    font-size: 14px;
+   
+  }
+  .copyright>{
+    padding-right: 600px;
+    padding-top: 100px;
+  }
